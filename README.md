@@ -1,6 +1,6 @@
 # CTVeloRacing
 
-This is the website host for CTVeloRacing. You can view the website at <ctveloracing.com> or <ctveloracing.github.io>.
+This is the website host for CTVeloRacing. You can view the website at <http://ctveloracing.com> or <http://ctveloracing.github.io>.
 
 The website template was taken from startbootstrap, details below.
 
